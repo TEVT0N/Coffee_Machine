@@ -1,0 +1,1 @@
+Application for coffee machine, it accepts commands for making different types of coffee, refilling supplies and money withdraw.
